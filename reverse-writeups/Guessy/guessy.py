@@ -28,3 +28,4 @@ for h, i in zip(hex3.split(), hex2.split()):
 # dernier caractére
 res3 += "f"
 print(res3)
+print("}")
