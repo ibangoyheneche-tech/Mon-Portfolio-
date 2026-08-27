@@ -25,7 +25,7 @@ for h, i in zip(hex3.split(), hex2.split()):
         caractere = chr(nombre)
         res3 += caractere
 
-# dernier caractére
+# dernier caractère
 res3 += "f"
 print(res3)
 print("}")

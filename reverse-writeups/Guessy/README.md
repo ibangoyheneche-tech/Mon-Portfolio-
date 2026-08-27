@@ -137,7 +137,7 @@ print(res3)
 On obtient 167a02cf. <br>
 Ensuite on a un dernier appel de fonction avec `most_difficult_part`.
 
-## Most_difficult_part
+## 4. Most_difficult_part
 ```c
     if (local_18[0] == '}') {
       puts("Congratulations, you\'ve guessed the flag !");
